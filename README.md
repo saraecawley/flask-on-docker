@@ -35,3 +35,7 @@ $ docker compose up -d --build
 $ docker compose -f docker-compose.prod.yml up -d --build
 ```
 Test at <http://localhost:8084>. Note that changes require rebuilding and restarting production.
+
+### Demo
+
+![Flask image upload](demo.gif)
